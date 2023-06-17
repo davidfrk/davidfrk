@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+Here goes some stuff.
+
+Everybody likes raytracing. You too, right? --
 ![RaytracingFuzz](./Assets/Reflection.png)
+
+A simple mobile card game I made.
+![MobileCardGameScreenshot](./Assets/MobileCardGame.png)
 
 <!--
 **davidfrk/davidfrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
