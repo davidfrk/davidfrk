@@ -2,7 +2,7 @@
 
 Here goes some stuff.
 
-Everybody likes raytracing. You too, right? --
+Everybody likes raytracing. Right? --
 ![RaytracingFuzz](./Assets/Reflection.png)
 
 A simple mobile card game I made.
