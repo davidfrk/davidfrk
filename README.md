@@ -8,6 +8,9 @@ Everybody likes raytracing. Right? --
 A simple mobile card game I made.
 ![MobileCardGameScreenshot](./Assets/MobileCardGame.png)
 
+A month long RPG project, feel free to check it out on youtube.
+[![Watch the video](https://img.youtube.com/vi/zQUQ5BusM4A/maxresdefault.jpg)](https://youtu.be/zQUQ5BusM4A)
+
 <!--
 **davidfrk/davidfrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
