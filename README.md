@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Here goes some stuff.
-And don't forget to to check out my <a href="https://experimental-web-dev.github.io/" target="_blank">landing page</a>.
+And don't forget to to check out my [landing page](https://experimental-web-dev.github.io/).
 
 Everybody likes raytracing. Right? --
 ![RaytracingFuzz](./Assets/Reflection.png)
