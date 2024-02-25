@@ -4,7 +4,7 @@ Here goes some stuff.
 And don't forget to to check out my [landing page](https://experimental-web-dev.github.io/).
 
 Georeferenced data application developed for Ondaedes whose focus is on enabling better decision-making in the fight against arboviruses.
-![Ondaedes' Dashboard](./Assets/Ondaedes.png)
+![Ondaedes' Dashboard](./Assets/Ondaedes.PNG)
 
 Everybody likes raytracing. Right? --
 ![RaytracingFuzz](./Assets/Reflection.png)
