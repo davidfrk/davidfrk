@@ -16,7 +16,7 @@ Wanna try a web version? [Do it here!!](https://experimental-web-dev.github.io/p
 A simple mobile card game I made.
 ![MobileCardGameScreenshot](./Assets/MobileCardGame.png)
 
-A month long RPG project, feel free to check it out on youtube.
+A month long RPG project, feel free to check it out on [youtube](https://youtu.be/zQUQ5BusM4A).
 [![Watch the video](./Assets/RPG.png)](https://youtu.be/zQUQ5BusM4A)
 
 <!--
