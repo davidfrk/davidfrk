@@ -11,6 +11,7 @@ Weather forecast and population.
 
 Everybody likes raytracing. Right? --
 ![RaytracingFuzz](./Assets/Reflection.png)
+Wanna try a web version? [Do it here!!](https://experimental-web-dev.github.io/pages/webgpu-raytracing.html).
 
 A simple mobile card game I made.
 ![MobileCardGameScreenshot](./Assets/MobileCardGame.png)
