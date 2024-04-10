@@ -19,7 +19,7 @@ A simple mobile card game I made.
 A month long RPG project, feel free to check it out on [youtube](https://youtu.be/zQUQ5BusM4A).
 [![Watch the video](./Assets/RPG.png)](https://youtu.be/zQUQ5BusM4A)
 
-Training React project,
+React project,
 ![Costs - Hora de Codar](https://github.com/davidfrk/costs/blob/main/public/resources/costs.png)
 <!--
 **davidfrk/davidfrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
