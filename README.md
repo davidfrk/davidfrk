@@ -16,14 +16,11 @@ Everybody likes raytracing. Right? --
 ![RaytracingFuzz](./Assets/Reflection.png)
 Wanna try a web version? [Do it here!!](https://experimental-web-dev.github.io/pages/webgpu-raytracing.html)
 
-A simple mobile card game I made.
+A mobile card game I made.
 ![MobileCardGameScreenshot](./Assets/MobileCardGame.png)
 
-A month long RPG project, feel free to check it out on [youtube](https://youtu.be/zQUQ5BusM4A).
+RPG project, feel free to check it out on [youtube](https://youtu.be/zQUQ5BusM4A).
 [![Watch the video](./Assets/RPG.png)](https://youtu.be/zQUQ5BusM4A)
-
-React-based project for managing project [Costs](https://github.com/davidfrk/costs),
-[![Costs - Hora de Codar](https://github.com/davidfrk/costs/blob/main/public/resources/costs.png)](https://github.com/davidfrk/costs)
 <!--
 **davidfrk/davidfrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
