@@ -3,7 +3,7 @@
 Here goes some stuff.
 And don't forget to to check out my [portfolio page](https://davidfrk.github.io/portfolio/).
 
-Georeferenced data application developed for Ondaedes whose focus is on enabling better decision-making in the fight against arboviruses.
+Georreferenced data application developed for Ondaedes whose focus is on enabling better decision-making in the fight against arboviruses.
 ![Ondaedes' Dashboard](./Assets/Ondaedes8.png)
 
 Weather forecast and population.
